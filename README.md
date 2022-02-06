@@ -47,8 +47,6 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=amitkrraj&show_icons=true&locale=en" alt="amitkrraj" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkrraj&" alt="amitkrraj" /></p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitkrraj&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) 
 
 [![amit's github activity graph](https://activity-graph.herokuapp.com/graph?username=amitkrraj&theme=react-dark)](https://github.com/amitkrraj/github-readme-activity-graph)
