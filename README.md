@@ -43,7 +43,7 @@
 📶 Stats<br>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkrraj&show_icons=true&locale=en&layout=compact" alt="amitkrraj" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkrraj&theme=dark&layout=compact&align=right&width=40%)](https://github.com/amitkrraj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkrraj&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=amitkrraj&show_icons=true&locale=en" alt="amitkrraj" /></p>
 
