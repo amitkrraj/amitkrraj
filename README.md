@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Good to have you here !!!</h1>
+<h2 align="center">Hi 👋, Good to have you here !!!</h2>
 
 🌱 **About Myself**<br>
 
@@ -9,16 +9,16 @@
 ✔️ I have experience in FULL stack web development .<br>
 
 ---
-🌱<span align="left"> <img src="https://komarev.com/ghpvc/?username=amitkrraj&label=Profile%20views&color=0e75b6&style=flat" alt="amitkrraj" /> </span>
+<h2 align="left">🌱<img src="https://komarev.com/ghpvc/?username=amitkrraj&label=Profile%20views&color=0e75b6&style=flat" alt="amitkrraj" /> </h2>
 
-<h3 align="left">Connect with Me</h3>
+<h4 align="left">Connect with Me</h4>
 <p align="left">
   <a href="https://linkedin.com/in/amitkrraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitkrraj" height="30" width="40" /></a>
   <a href="https://twitter.com/amitkrraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitkrraj" height="30" width="40" /></a>
   <a href="https://instagram.com/in/_amitkrraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitkrraj" height="30" width="40" /></a>  
 </p>
  
-<h3 align="left">Languages and Tools</h3>
+<h4 align="left">Languages and Tools</h4>
 <p align="left"> 
   <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
