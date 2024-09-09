@@ -5,7 +5,7 @@
 
 ✔️ I'm a dedicated and results-driven Software Engineer with a proven track record of successfully delivering impactful projects. <br>
 
-✔️ I've approx. two years of experience at Excel Net Solutions Pvt Ltd where I'd demonstrated expertise in software development, project management, problem resolution and mentorship.. <br>
+✔️ I've approx. two years of experience at Excel Net Solutions Pvt Ltd where I'd demonstrated expertise in software development, project management, problem resolution and mentorship. <br>
 
 ✔️ I've done Bachelor of Engineering from SLIET, Punjab in *Computer and Science Engineering*. <br>
 
