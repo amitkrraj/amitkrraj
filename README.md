@@ -3,11 +3,13 @@
 <h3 align="left">🌱About Myself</h3>
 <br>
 
-✔️ I'm **Amit Kumar**, currently pursuing my bachelors from SLIET, Punjab in *Computer and Science Engineering*. <br>
+✔️ I'm **Amit Kumar**, Software Engineer. <br>
 
-✔️ I am interested in development and enjoy doing competitive programming. <br>
+✔️ I've approx. two years of experience at Excel Net Solutions Pvt Ltd where I'd demonstrated expertise in software development, project management, problem resolution and mentorship.. <br>
 
-✔️ I have experience in FULL stack web development .<br>
+✔️ I've done Bachelor of Engineering from SLIET, Punjab in *Computer and Science Engineering*. <br>
+
+✔️ I am interested in development and enjoy programming. <br>
 
 ---
 <h3 align="left">🌱<img src="https://komarev.com/ghpvc/?username=amitkrraj&label=Profile%20views&color=0e75b6&style=flat" alt="amitkrraj" /> </h3>
